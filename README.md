@@ -5,9 +5,23 @@
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="Coding" width="400" />
 </p>
 
-## 📫 How to Reach Me
-- **Email:** ekaaperindaputri@gmail.com
-- **LinkedIn:** [Eka A Perinda Putri](https://www.linkedin.com/in/ekaaperindaputri)
+<table>
+  <tr>
+    <td>
+      <h2>📫 How to Reach Me</h2>
+      <ul>
+        <li><strong>Email:</strong> ekaaperindaputri@gmail.com</li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ekaaperindaputri">Eka A Perinda Putri</a></li>
+      </ul>
+    </td>
+    <td>
+      <h2>📊 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=ekaaperindaputri&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekaaperindaputri&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaaperindaputri" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -43,20 +57,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
   </a>
 </p>
-
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ekaaperindaputri&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekaaperindaputri&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaaperindaputri" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
