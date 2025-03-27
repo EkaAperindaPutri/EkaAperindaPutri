@@ -1,6 +1,6 @@
 ### Hi there, I'm Eka! 👋
 
-🚀 **Data Scientist | Business Intelligence | AI Engineer**
+🚀 **Data Scientist | Business Intelligence | Data Engineer**
 
 Passionate about **data, AI, and automation**, I love turning raw data into actionable insights. Let's connect and create something amazing!
 
